@@ -1,4 +1,4 @@
-# LLamar Nombres y Apellidos de la Reniec con su Número de DNI - Perú
+# Verificar información de una persona con su Número de DNI - Perú
 Estos archivos te permitirán realizar una veriicación de las personas con su número de DNI.
 Desarrollado en PHP Pura.
 

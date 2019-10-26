@@ -142,7 +142,7 @@
                 alert('Escriba el DNI.!');
                 $('#dni').focus();
             }
-            
+            return false;
         });
 
     });    
